@@ -1,1 +1,7 @@
-# Calcullus 2 - Derivatives
+
+
+# <p align="center"> ✍️ Calculus 2 - Function Derivatoves - Resolution of Mathematics Exercises
+
+
+
+
