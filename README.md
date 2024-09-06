@@ -17,6 +17,9 @@ Welcome to the **Derivatives - Calculus I** repository! This repository is a com
 This repository aims to provide a structured approach to learning derivatives, starting from the basic concepts to more advanced applications. Whether you're preparing for exams, brushing up on calculus, or exploring the role of calculus in data science, this resource will be invaluable.
 
 
+## 2. Fundamental Concepts
+
+In this section, we cover the foundational concepts necessary for understanding derivatives, including:
 
 
 
