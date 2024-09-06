@@ -37,7 +37,7 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 - **Regularization**: Preventing overfitting by penalizing excessive complexity, guided by derivative-based techniques.
 - **Neural Networks**: Backpropagation relies heavily on derivatives for updating weights and biases in deep learning models.
 
-### Understanding these applications highlights the importance of derivatives in the development and optimization of AI models.
+#### ☝︎ Understanding these applications above highlights the importance of derivatives in the development and optimization of AI models.
 
 
 ## 4. Exercises
