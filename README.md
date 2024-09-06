@@ -51,7 +51,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 Given the function: 
 $$\( f(x) = x^2 + 3x + 2 \)$$ 
 
-find the derivative of $\( f(x) \)$ with respect to $\( x \)$, and evaluate it at $$\( x = 1 \)$.
+find the derivative of $\( f(x) \)$ with respect to $\( x \)$, and evaluate it at $\( x = 1 \)$.
 
 
 
