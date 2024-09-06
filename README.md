@@ -21,7 +21,5 @@ This repository aims to provide a structured approach to learning derivatives, s
 
 In this section, we cover the foundational concepts necessary for understanding derivatives, including:
 
-
-
-
-
+- **Limits and Continuity**: The building blocks of derivatives.
+- **Definition of a Derivative**: What it means and how it's calculated.
