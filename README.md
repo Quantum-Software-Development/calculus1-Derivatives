@@ -23,3 +23,10 @@ In this section, we cover the foundational concepts necessary for understanding 
 
 - **Limits and Continuity**: The building blocks of derivatives.
 - **Definition of a Derivative**: What it means and how it's calculated.
+- **Basic Differentiation Rules**: Techniques such as the power rule, product rule, quotient rule, and chain rule.
+- **Higher-Order Derivatives**: Understanding the second derivative and beyond.
+- **Common Functions**: Differentiating functions like polynomials, exponentials, logarithms, and trigonometric functions.
+
+
+
+
