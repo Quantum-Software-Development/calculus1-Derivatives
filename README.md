@@ -1,7 +1,7 @@
 
 <br>
 
-https://github.com/user-attachments/assets/ef8a079a-d75e-465e-8485-4300fdb9b4c8
+
 
 <br>
 
@@ -9,6 +9,7 @@ https://github.com/user-attachments/assets/ef8a079a-d75e-465e-8485-4300fdb9b4c8
 
 #### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
+Welcome to the **Derivatives - Calculus I** repository! This repository is a comprehensive guide designed to assist students, educators, and enthusiasts in mastering the resolution of mathematics exercises related to derivatives in Calculus I.
 
 
 
