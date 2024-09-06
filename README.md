@@ -42,6 +42,12 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 
 ## 4. Exercises
 
+Below are the exercises solved in this repository. They have been written in LaTeX to ensure a clear and precise presentation. Feel free to use and improve the code as needed.
+
+### [Exercises: Find the following derivatives]() ☟
+
+Given the function \( f(x) = x^2 + 3x + 2 \), find the derivative of \( f(x) \) with respect to \( x \), and evaluate it at \( x = 1 \).
+
 
 ## [Exercicise A:]() 
 
