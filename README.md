@@ -34,6 +34,9 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 
 - **Optimization**: How derivatives help in finding minima and maxima, which are key in training machine learning models.
 - **Gradient Descent**: The backbone of many learning algorithms, using derivatives to optimize model parameters.
+- **Regularization**: Preventing overfitting by penalizing excessive complexity, guided by derivative-based techniques.
+- **Neural Networks**: Backpropagation relies heavily on derivatives for updating weights and biases in deep learning models.
+
 
 
 
