@@ -78,6 +78,9 @@ $\ f'(1)$ = $2(1) + 3 = 5\$
 \ f'(1) = 2(1) + 3 = 5\
 ``` 
 
+## [Exercicise B:]() 
+
+Given Function:} \( f(x) = x \cdot e^x \)
 
 
 
