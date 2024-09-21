@@ -42,7 +42,8 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 
 ## 4. Exercises
 
-Below are the exercises solved in this repository. They have been written in LaTeX to ensure a clear and precise presentation. Feel free to use and improve the code as needed.
+This section provides practice exercises to help you apply the concepts you've learned. Below are the exercise solutions in LaTeX format:
+
 
 ### [Exercises: Find the following derivatives]() ☟
 
