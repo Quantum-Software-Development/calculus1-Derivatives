@@ -65,6 +65,8 @@ Substitute $\( x = 1 \)$ into $\( f'(x) \)$
 
 Solution:
 
+$\f'(x)$ = $\frac{d}{dx}(x^2 + 3x + 2) = 2x + 3\$
+
 
 `Latex Code ☟`
 
