@@ -16,7 +16,6 @@ Welcome to the **Derivatives - Calculus I** repository! This repository is a com
 
 This repository aims to provide a structured approach to learning derivatives, starting from the basic concepts to more advanced applications. Whether you're preparing for exams, brushing up on calculus, or exploring the role of calculus in data science, this resource will be invaluable.
 
-
 ## 2. Fundamental Concepts
 
 In this section, we cover the foundational concepts necessary for understanding derivatives, including:
@@ -27,8 +26,7 @@ In this section, we cover the foundational concepts necessary for understanding 
 - **Higher-Order Derivatives**: Understanding the second derivative and beyond.
 - **Common Functions**: Differentiating functions like polynomials, exponentials, logarithms, and trigonometric functions.
 
-
- ## 3. Why Derivatives are Important for AI Data Scientists
+## 3. Why Derivatives are Important for AI Data Scientists
 
 Derivatives are not just a mathematical curiosity; they play a crucial role in the field of data science and artificial intelligence (AI). This section discusses:
 
@@ -37,7 +35,7 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 - **Regularization**: Preventing overfitting by penalizing excessive complexity, guided by derivative-based techniques.
 - **Neural Networks**: Backpropagation relies heavily on derivatives for updating weights and biases in deep learning models.
 
-#### ☝︎ Understanding these applications above highlights the importance of derivatives in the development and optimization of AI models.
+**Understanding these applications highlights the importance of derivatives in the development and optimization of AI models.**
 
 
 ## 4. Exercises
