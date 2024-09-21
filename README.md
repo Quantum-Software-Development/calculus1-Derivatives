@@ -63,6 +63,14 @@ Substitute $\( x = 1 \)$ into $\( f'(x) \)$
 \end{enumerate}
 ```
 
+Solution:
+\[
+f'(x) = \frac{d}{dx}(x^2 + 3x + 2) = 2x + 3
+\]
+\[
+f'(1) = 2(1) + 3 = 5
+\]
+
 
 
 
