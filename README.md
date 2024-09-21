@@ -54,10 +54,8 @@ $$\ f(x) = x^2 + 3x + 2 \$$
 
 <br>
 
-\begin{enumerate}
-    \item Calculate \( f'(x) \).
-    \item Substitute \( x = 1 \) into \( f'(x) \).
-\end{enumerate}
+ find the derivative of $\( f(x) \)$ with respect to $\( x \)$, and evaluate it at $\( x = 1 \)$.
+
 
 
 
