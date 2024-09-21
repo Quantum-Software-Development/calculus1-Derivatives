@@ -59,11 +59,12 @@ $$\ f(x) = x^2 + 3x + 2 \$$
 <br>
 
 
+```latex
 $\begin{enumerate}
     \item Calculate \( f'(x) \).
     \item Substitute \( x = 1 \) into \( f'(x) \).
 \end{enumerate}$
-
+```
 
 
 
