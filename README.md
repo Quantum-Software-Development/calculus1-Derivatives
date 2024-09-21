@@ -47,7 +47,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ## [Exercicise A:]() 
 
-Given function $\( f(x) = x^2 + 3x + 2 \)$, find the derivative of \( f(x) \) with respect to \( x \), and evaluate it at \( x = 1 \).
+### Given function $\( f(x) = x^2 + 3x + 2 \)$, find the derivative of \( f(x) \) with respect to \( x \), and evaluate it at \( x = 1 \).
 
 
 Calculate, $\( f'(x) \)$
@@ -80,7 +80,7 @@ $\ f'(1)$ = $2(1) + 3 = 5\$
 
 ## [Exercicise B:]() 
 
-Given Function:} \( f(x) = x \cdot e^x \)
+### Given Function: $\( f(x)$ = x \cdot e^x \)$
 
 
 
