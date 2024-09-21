@@ -60,10 +60,10 @@ $$\ f(x) = x^2 + 3x + 2 \$$
 
 
 ```latex
-$\begin{enumerate}
+\begin{enumerate}
     \item Calculate \( f'(x) \).
     \item Substitute \( x = 1 \) into \( f'(x) \).
-\end{enumerate}$
+\end{enumerate}
 ```
 
 
