@@ -55,9 +55,9 @@ Calculate, $\( f'(x) \)$
 
 Substitute $\( x = 1 \)$ into $\( f'(x) \)$
 
-```latex
-#Latex Code
+`Latex Code ☟`
 
+```latex
 \begin{enumerate}
     \item Calculate \( f'(x) \).
     \item Substitute \( x = 1 \) into \( f'(x) \).
