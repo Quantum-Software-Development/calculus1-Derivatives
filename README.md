@@ -86,6 +86,10 @@ For this function, we use the product rule, which states that the derivative of 
 
 So, we have:
 
+$\ f'(x) = \frac{d}{dx}(x) \cdot e^x + x \cdot \frac{d}{dx}(e^x)\$
+
+
+
 
 
 `Latex Code ☟`
