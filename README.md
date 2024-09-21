@@ -89,6 +89,8 @@ So, we have:
 $\ f'(x) = \frac{d}{dx}(x) \cdot e^x + x \cdot \frac{d}{dx}(e^x)\$
 
 
+$\ f'(x) = 1 \cdot e^x + x \cdot e^x\$
+
 
 
 
