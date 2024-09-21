@@ -48,7 +48,7 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 ## [Exercicise A:]() 
 
-Given the function: 
+Given function: $\( f(x) = x^2 + 3x + 2 \$ 
 
 
 
