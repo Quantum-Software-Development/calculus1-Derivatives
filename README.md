@@ -58,6 +58,9 @@ $$\ f(x) = x^2 + 3x + 2 \$$
 
 <br>
 
+Calculate, $\( f'(x) \)$
+
+Substitute $\( x = 1 \)$ into $\( f'(x) \)$
 
 ```latex
 \begin{enumerate}
