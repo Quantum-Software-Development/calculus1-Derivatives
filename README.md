@@ -1,16 +1,13 @@
 <br>
 
 # ✍️ Derivatives - Calculus I - Resolution of Mathematics Exercises
+### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 <br>
 
 https://github.com/user-attachments/assets/e77310b2-7d55-48a2-96c2-f729cf434b75
 
 <br>
-
-# <p align="center"> ✍️ Calculus 2 - Function Derivatives - Resolution of Mathematics Exercises
-
-#### <p align="center"> AI Data Science - PUCSP University - Math Repository - [Professor Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 Welcome to the **Derivatives - Calculus I** repository! This repository is a comprehensive guide designed to assist students, educators, and enthusiasts in mastering the resolution of mathematics exercises related to derivatives in Calculus I.
 
