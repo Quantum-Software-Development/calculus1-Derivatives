@@ -52,6 +52,14 @@ Given function:
 
 $$\ f(x) = x^2 + 3x + 2 \$$ 
 
+<br>
+
+\begin{enumerate}
+    \item Calculate \( f'(x) \).
+    \item Substitute \( x = 1 \) into \( f'(x) \).
+\end{enumerate}
+
+
 
 
 
