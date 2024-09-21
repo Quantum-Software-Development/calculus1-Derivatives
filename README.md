@@ -50,13 +50,13 @@ Below are the exercises solved in this repository. They have been written in LaT
 
 Given function $\( f(x) = x^2 + 3x + 2 \)$, find the derivative of \( f(x) \) with respect to \( x \), and evaluate it at \( x = 1 \).
 
-<br>
 
 Calculate, $\( f'(x) \)$
 
 Substitute $\( x = 1 \)$ into $\( f'(x) \)$
 
 ```latex
+Latex Code
 \begin{enumerate}
     \item Calculate \( f'(x) \).
     \item Substitute \( x = 1 \) into \( f'(x) \).
