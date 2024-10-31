@@ -116,6 +116,11 @@ $\ f'(x) = e^x + x \cdot e^x\$
 ### Given Function: $\( f(x) = 3x + 5 \ln(x) \)$
 
 
+#
+
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
+
+
 
 
 
