@@ -190,6 +190,24 @@ f'(x) = 3e^{3x}
 \]
 
 
+## [Exercicise F:]() 
+
+### Given Function: \( g(x) = \sin(x) + (\cos(x))^3 \)
+
+To solve this derivative, we use the sum rule and the chain rule. The derivative of \( \sin(x) \) is \( \cos(x) \), and for the \( (\cos(x))^3 \) term, we use the chain rule.
+
+So, we have:
+
+\[
+g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]
+\]
+
+\[
+g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)
+\]
+
+
+
 
 #
 
