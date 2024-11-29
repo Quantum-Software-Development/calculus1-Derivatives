@@ -168,7 +168,26 @@ f'(x) = 4\cos(4x)
 \]
 
 
+## [Exercicise E:]() 
 
+### Given Function: \( f(x) = e^{3x} \)
+
+
+Here, we also apply the chain rule. The derivative of \( e^u \) is \( e^u \), and the derivative of \( 3x \) is 3.
+
+Therefore:
+
+\[
+f'(x) = \frac{d}{dx}(e^{3x})
+\]
+
+\[
+f'(x) = e^{3x} \cdot 3
+\]
+
+\[
+f'(x) = 3e^{3x}
+\]
 
 
 
