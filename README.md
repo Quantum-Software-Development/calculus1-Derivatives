@@ -153,6 +153,19 @@ $\ f'(x) = 3 + \frac{5}{x}$
 
 For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u)\$ is $\ cos(u)\$ , and the derivative of  $\( 4x \)$ with respect to $\ ( x \)$ is 4.
 
+So, we have:
+
+\[
+f'(x) = \frac{d}{dx}(\sin(4x))
+\]
+
+\[
+f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)
+\]
+
+\[
+f'(x) = 4\cos(4x)
+\]
 
 
 
