@@ -158,10 +158,11 @@ So, we have:
 
 $\ f'(x) = \frac{d}{dx}(\sin(4x))\$
 
+$\ frac{d}{dx}(\sin(4x))\$
 
+$\ f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)\$
 
-
-
+$\ f'(x) = 4\cos(4x)\$
 
 
 <br>
