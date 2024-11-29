@@ -117,6 +117,8 @@ $\ f'(x) = e^x + x \cdot e^x\$
 
 ### Given Function: $\ f(x) = 3x + 5 \ln(x) \$
 
+Here, we have a linear function and the natural logarithm. The derivative of a linear function is simply the coefficient of the variable $\( x \)$, and the derivative of $\( \ln(x) \)$ is $\( \frac{1}{x} \)$.
+
 
 #
 
