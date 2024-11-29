@@ -115,7 +115,7 @@ $\ f'(x) = e^x + x \cdot e^x\$
 
 ## [Exercicise C:]() 
 
-### Given Function: $\( f(x) = 3x + 5 \ln(x) \)$
+### Given Function: $\ f(x) = 3x + 5 \ln(x) \$
 
 
 #
