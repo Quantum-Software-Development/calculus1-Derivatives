@@ -151,7 +151,7 @@ $\ f'(x) = 3 + \frac{5}{x}$
 
 ### Given Function: $\ f(x) = \sin(4x) \$
 
-For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u) \$ is $\ cos(u) \$ , and the derivative of  $\( 4x \)$ with respect to $\( x \)$ is 4.
+For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u)\$ is $\ cos(u) \$ , and the derivative of  $\( 4x \)$ with respect to $\( x \)$ is 4.
 
 
 
