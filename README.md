@@ -124,7 +124,10 @@ Therefore:
 $\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\$
 
 
+$\ f'(x) = 3 + 5 \cdot \frac{1}{x}\$
 
+
+$\ f'(x) = 3 + \frac{5}{x}$
 
 
 <br>
