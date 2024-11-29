@@ -207,7 +207,9 @@ g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)
 \]
 
 
-5. Conclusion
+
+## 5. Conclusion
+
 This repository is designed to be a comprehensive resource for mastering derivatives in Calculus I, with a special focus on their applications in AI and data science. By working through the materials provided, you'll build a strong foundation in calculus that will be essential for both academic and professional success in the fields of mathematics, engineering, and data science.
 
 
