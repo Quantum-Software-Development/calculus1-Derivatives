@@ -82,7 +82,7 @@ $\ f'(1)$ = $2(1) + 3 = 5\$
 
 ## [Exercicise B:]() 
 
-### Given Function: $\( f(x) = x \cdot e^x \)$
+### Given Function: $\ f(x) = x \cdot e^x \$
 
 For this function, we use the product rule, which states that the derivative of a product of two functions is the first function times the derivative of the second, plus the second function times the derivative of the first.
 
