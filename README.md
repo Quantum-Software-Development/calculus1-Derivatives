@@ -174,15 +174,11 @@ $\ f'(x) = \frac{d}{dx}(\sin(4x))\$
 ```
 
 ```latex
-\[
-f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)
-\]
+\ f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)\
 ```
 
 ```latex
-\[
-f'(x) = 4\cos(4x)
-\]
+\ f'(x) = 4\cos(4x)\
 ```
 
 ## [Exercicise E:]() 
@@ -215,9 +211,8 @@ To solve this derivative, we use the sum rule and the chain rule. The derivative
 
 So, we have:
 
-\[
-g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]
-\]
+\ g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]
+\
 
 \[
 g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)
