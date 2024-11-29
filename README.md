@@ -119,6 +119,29 @@ $\ f'(x) = e^x + x \cdot e^x\$
 
 Here, we have a linear function and the natural logarithm. The derivative of a linear function is simply the coefficient of the variable $\( x \)$, and the derivative of $\( \ln(x) \)$ is $\( \frac{1}{x} \)$.
 
+Therefore:
+
+
+
+
+
+<br>
+
+`Latex Code ☟`
+
+```latex
+\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\
+```
+
+```latex
+\ f'(x) = 3 + 5 \cdot \frac{1}{x}\
+```
+
+```latex
+\ f'(x) = 3 + \frac{5}{x}
+```
+
+
 
 #
 
