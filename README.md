@@ -155,18 +155,32 @@ For this function, we use the chain rule since we have a composite function. The
 
 So, we have:
 
-\[
-f'(x) = \frac{d}{dx}(\sin(4x))
-\]
 
+
+
+
+
+
+<br>
+
+`Latex Code ☟`
+
+
+```latex
+\ f'(x) = \frac{d}{dx}(\sin(4x))\
+```
+
+```latex
 \[
 f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)
 \]
+```
 
+```latex
 \[
 f'(x) = 4\cos(4x)
 \]
-
+```
 
 ## [Exercicise E:]() 
 
