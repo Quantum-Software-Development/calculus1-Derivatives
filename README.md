@@ -121,6 +121,8 @@ Here, we have a linear function and the natural logarithm. The derivative of a l
 
 Therefore:
 
+$\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\$
+
 
 
 
