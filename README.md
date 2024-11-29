@@ -147,6 +147,18 @@ $\ f'(x) = 3 + \frac{5}{x}$
 ```
 
 
+## [Exercicise D:]() 
+
+### Given Function: $\ f(x) = \sin(4x) \$
+
+
+
+
+
+
+
+
+
 
 #
 
