@@ -156,6 +156,9 @@ For this function, we use the chain rule since we have a composite function. The
 So, we have:
 
 
+$\ f'(x) = \frac{d}{dx}(\sin(4x))\$
+
+
 
 
 
