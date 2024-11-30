@@ -100,7 +100,7 @@ $\ f'(1)$ = $2(1) + 3 = 5\$
 
 <br>
 
-For this function, we use the product rule, which states that the derivative of a product of two functions is the first function times the derivative of the second, plus the second function times the derivative of the first.
+### For this function, we use the product rule, which states that the derivative of a product of two functions is the first function times the derivative of the second, plus the second function times the derivative of the first.
 
 So, we have:
 
@@ -139,7 +139,7 @@ $\ f'(x) = e^x + x \cdot e^x\$
 
 <br>
 
-Here, we have a linear function and the natural logarithm. The derivative of a linear function is simply the coefficient of the variable $\( x \)$, and the derivative of $\( \ln(x) \)$ is $\( \frac{1}{x} \)$.
+### Here, we have a linear function and the natural logarithm. The derivative of a linear function is simply the coefficient of the variable $\( x \)$, and the derivative of $\( \ln(x) \)$ is $\( \frac{1}{x} \)$.
 
 Therefore:
 
@@ -179,7 +179,7 @@ $\ f'(x) = 3 + \frac{5}{x}$
 
 <br>
 
-For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u)\$ is $\ cos(u)\$ , and the derivative of  $\( 4x \)$ with respect to $\ ( x \)$ is 4.
+### For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u)\$ is $\ cos(u)\$ , and the derivative of  $\( 4x \)$ with respect to $\ ( x \)$ is 4.
 
 <br>
 
@@ -221,7 +221,7 @@ $\ f'(x) = 4\cos(4x)\$
 
 <br>
 
-Here, we also apply the chain rule. The derivative of $\  e^u\$ is $\ e^u\$, and the derivative of $\  3x\$ is 3.
+### Here, we also apply the chain rule. The derivative of $\  e^u\$ is $\ e^u\$, and the derivative of $\  3x\$ is 3.
 
 <br>
 
@@ -261,7 +261,7 @@ $\ f'(x) = 3e^{3x}\$
 
 <br>
 
-To solve this derivative, we use the sum rule and the chain rule. The derivative of \( \sin(x) \) is \( \cos(x) \), and for the \( (\cos(x))^3 \) term, we use the chain rule.
+### To solve this derivative, we use the sum rule and the chain rule. The derivative of \( \sin(x) \) is \( \cos(x) \), and for the \( (\cos(x))^3 \) term, we use the chain rule.
 
 <br>
 
