@@ -189,18 +189,18 @@ Here, we also apply the chain rule. The derivative of \( e^u \) is \( e^u \), an
 
 Therefore:
 
-\[
-f'(x) = \frac{d}{dx}(e^{3x})
-\]
 
-\[
-f'(x) = e^{3x} \cdot 3
-\]
+```latex
+\ f'(x) = \frac{d}{dx}(e^{3x})\
+```
 
-\[
-f'(x) = 3e^{3x}
-\]
+```latex
+\ f'(x) = e^{3x} \cdot 3\
+```
 
+```latex
+\ f'(x) = 3e^{3x}\
+```
 
 ## [Exercicise F:]() 
 
