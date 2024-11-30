@@ -51,12 +51,15 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Given function $\ f(x)$ = $x^2 + 3x + 2 \$, find the derivative of $\ f(x)\$ with respect to $\( x \)$, and evaluate it at $\( x = 1 )\$.
 
+<br>
 
 Calculate, $\ f'(x) \$
 
 <br>
 
 Substitute $\( x = 1 \)$ into $\ f'(x) \$
+
+<br>
 
 `Latex Code ☟`
 
@@ -67,7 +70,11 @@ Substitute $\( x = 1 \)$ into $\ f'(x) \$
 \end{enumerate}
 ```
 
+<br>
+
 Solution:
+
+<br>
 
 $\ f'(x)$ = $\frac{d}{dx}(x^2 + 3x + 2) = 2x + 3\$
 
@@ -91,9 +98,13 @@ $\ f'(1)$ = $2(1) + 3 = 5\$
 
 ### Given Function: $\ f(x) = x \cdot e^x \$
 
+<br>
+
 For this function, we use the product rule, which states that the derivative of a product of two functions is the first function times the derivative of the second, plus the second function times the derivative of the first.
 
 So, we have:
+
+<br>
 
 $\ f'(x) = \frac{d}{dx}(x) \cdot e^x + x \cdot \frac{d}{dx}(e^x)\$
 
@@ -126,9 +137,13 @@ $\ f'(x) = e^x + x \cdot e^x\$
 
 ### Given Function: $\ f(x) = 3x + 5 \ln(x) \$
 
+<br>
+
 Here, we have a linear function and the natural logarithm. The derivative of a linear function is simply the coefficient of the variable $\( x \)$, and the derivative of $\( \ln(x) \)$ is $\( \frac{1}{x} \)$.
 
 Therefore:
+
+<br>
 
 $\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\$
 
@@ -162,9 +177,15 @@ $\ f'(x) = 3 + \frac{5}{x}$
 
 ### Given Function: $\ f(x) = \sin(4x) \$
 
+<br>
+
 For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u)\$ is $\ cos(u)\$ , and the derivative of  $\( 4x \)$ with respect to $\ ( x \)$ is 4.
 
+<br>
+
 So, we have:
+
+<br>
 
 $\ f'(x) = \frac{d}{dx}(\sin(4x))\$
 
