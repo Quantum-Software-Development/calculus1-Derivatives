@@ -269,13 +269,18 @@ So, we have:
 
 <br>
 
+
+```latex
 \ g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]
 \
+```
 
+
+```latex
 \[
 g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)
 \]
-
+```
 
 
 ## 5. Conclusion
