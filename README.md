@@ -123,9 +123,11 @@ Therefore:
 
 $\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\$
 
+<br>
 
 $\ f'(x) = 3 + 5 \cdot \frac{1}{x}\$
 
+<br>
 
 $\ f'(x) = 3 + \frac{5}{x}$
 
@@ -155,10 +157,13 @@ For this function, we use the chain rule since we have a composite function. The
 
 So, we have:
 
-
 $\ f'(x) = \frac{d}{dx}(\sin(4x))\$
 
+<br>
+
 $\ f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)\$
+
+<br>
 
 $\ f'(x) = 4\cos(4x)\$
 
@@ -191,11 +196,13 @@ Therefore:
 
 $\ f'(x) = \frac{d}{dx}(e^{3x})\$
 
+<br>
+
 $\ f'(x) = e^{3x} \cdot 3\$
 
+<br>
 
-
-
+$\ f'(x) = 3e^{3x}\$
 
 <br>
 
