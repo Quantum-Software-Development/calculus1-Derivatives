@@ -124,7 +124,10 @@ Therefore:
 $\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\$
 
 
+$\ f'(x) = 3 + 5 \cdot \frac{1}{x}\$
 
+
+$\ f'(x) = 3 + \frac{5}{x}$
 
 
 <br>
@@ -142,6 +145,83 @@ $\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\$
 ```latex
 \ f'(x) = 3 + \frac{5}{x}
 ```
+
+
+## [Exercicise D:]() 
+
+### Given Function: $\ f(x) = \sin(4x) \$
+
+For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u)\$ is $\ cos(u)\$ , and the derivative of  $\( 4x \)$ with respect to $\ ( x \)$ is 4.
+
+So, we have:
+
+
+$\ f'(x) = \frac{d}{dx}(\sin(4x))\$
+
+$\ f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)\$
+
+$\ f'(x) = 4\cos(4x)\$
+
+
+<br>
+
+`Latex Code ☟`
+
+
+```latex
+\ f'(x) = \frac{d}{dx}(\sin(4x))\
+```
+
+```latex
+\ f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)\
+```
+
+```latex
+\ f'(x) = 4\cos(4x)\
+```
+
+## [Exercicise E:]() 
+
+### Given Function: \( f(x) = e^{3x} \)
+
+
+Here, we also apply the chain rule. The derivative of \( e^u \) is \( e^u \), and the derivative of \( 3x \) is 3.
+
+Therefore:
+
+\[
+f'(x) = \frac{d}{dx}(e^{3x})
+\]
+
+\[
+f'(x) = e^{3x} \cdot 3
+\]
+
+\[
+f'(x) = 3e^{3x}
+\]
+
+
+## [Exercicise F:]() 
+
+### Given Function: \( g(x) = \sin(x) + (\cos(x))^3 \)
+
+To solve this derivative, we use the sum rule and the chain rule. The derivative of \( \sin(x) \) is \( \cos(x) \), and for the \( (\cos(x))^3 \) term, we use the chain rule.
+
+So, we have:
+
+\ g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]
+\
+
+\[
+g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)
+\]
+
+
+
+## 5. Conclusion
+
+This repository is designed to be a comprehensive resource for mastering derivatives in Calculus I, with a special focus on their applications in AI and data science. By working through the materials provided, you'll build a strong foundation in calculus that will be essential for both academic and professional success in the fields of mathematics, engineering, and data science.
 
 
 
