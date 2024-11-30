@@ -189,6 +189,7 @@ Here, we also apply the chain rule. The derivative of \( e^u \) is \( e^u \), an
 
 Therefore:
 
+$\ f'(x) = \frac{d}{dx}(e^{3x})\$
 
 
 
