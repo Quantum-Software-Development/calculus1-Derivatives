@@ -257,7 +257,7 @@ $\ f'(x) = 3e^{3x}\$
 
 ## [Exercicise F:]() 
 
-### Given Function: $\ ( g(x)\$ = \sin(x) + (\cos(x))^3 \)
+### Given Function: $\ g(x)\$ = $\ sin(x)\$ + $\cos(x))^3\$
 
 <br>
 
