@@ -190,6 +190,16 @@ Here, we also apply the chain rule. The derivative of \( e^u \) is \( e^u \), an
 Therefore:
 
 
+
+
+
+
+
+
+<br>
+
+`Latex Code ☟`
+
 ```latex
 \ f'(x) = \frac{d}{dx}(e^{3x})\
 ```
