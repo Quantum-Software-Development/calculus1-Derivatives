@@ -221,7 +221,7 @@ $\ f'(x) = 4\cos(4x)\$
 
 <br>
 
-Here, we also apply the chain rule. The derivative of $\  e^u\$ is \( e^u \), and the derivative of \( 3x \) is 3.
+Here, we also apply the chain rule. The derivative of $\  e^u\$ is $\ e^u\$, and the derivative of $\  3x\$ is 3.
 
 <br>
 
