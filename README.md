@@ -54,6 +54,8 @@ This section provides practice exercises to help you apply the concepts you've l
 
 Calculate, $\ f'(x) \$
 
+<br>
+
 Substitute $\( x = 1 \)$ into $\ f'(x) \$
 
 `Latex Code ☟`
@@ -69,14 +71,19 @@ Solution:
 
 $\ f'(x)$ = $\frac{d}{dx}(x^2 + 3x + 2) = 2x + 3\$
 
+<br>
+
 $\ f'(1)$ = $2(1) + 3 = 5\$
 
+<br>
 
 `Latex Code ☟`
 
 ```latex
 \ f'(x) = \frac{d}{dx}(x^2 + 3x + 2) = 2x + 3\
+```
 
+```latex
 \ f'(1) = 2(1) + 3 = 5\
 ``` 
 
