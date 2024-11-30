@@ -217,7 +217,7 @@ $\ f'(x) = 4\cos(4x)\$
 
 ## [Exercicise E:]() 
 
-### Given Function: \( f(x) = e^{3x} \)
+### Given Function: $\ f(x) = e^{3x} \$
 
 <br>
 
@@ -263,7 +263,11 @@ $\ f'(x) = 3e^{3x}\$
 
 To solve this derivative, we use the sum rule and the chain rule. The derivative of \( \sin(x) \) is \( \cos(x) \), and for the \( (\cos(x))^3 \) term, we use the chain rule.
 
+<br>
+
 So, we have:
+
+<br>
 
 \ g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]
 \
