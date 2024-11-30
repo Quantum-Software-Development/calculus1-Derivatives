@@ -191,7 +191,7 @@ Therefore:
 
 $\ f'(x) = \frac{d}{dx}(e^{3x})\$
 
-
+$\ f'(x) = e^{3x} \cdot 3\$
 
 
 
