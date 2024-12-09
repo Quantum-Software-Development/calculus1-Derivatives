@@ -57,6 +57,8 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Substitute $\( x = 1 \)$ into $\ f'(x) \$
 
+$\color{DeepSkyBlue} {( x = 1 )}$
+
 <br>
 
 `Latex Code ☟`
