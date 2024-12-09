@@ -129,7 +129,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Given Function: $\ f(x) = 3x + 5 \ln(x) \$
 
-### Here, we have a linear function and the natural logarithm. The derivative of a linear function is simply the coefficient of the variable $\( x \)$, and the derivative of $\ ln(x)\$ is $\( \frac{1}{x} \)$.
+### Here, we have a linear function and the natural logarithm. The derivative of a linear function is simply the coefficient of the variable $\( x \)$, and the derivative of $\color{blue} { ln(x)}$ is $\( \frac{1}{x} \)$.
 
 ### Therefore:
 
