@@ -49,8 +49,6 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ## [Exercicise A:]() 
 
-
-
 ### Given function $\color{DeepSkyBlue} {\ f(x)}$ = $\color{DeepSkyBlue}  {x^2 + 3x + 2}$, find the derivative of $\color{DeepSkyBlue} {\ f(x)}$ with respect to $\color{DeepSkyBlue} {( x )}$, and evaluate it at $\color{DeepSkyBlue} {( x = 1 )}$.
 
 <br>
@@ -100,7 +98,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ## [Exercicise B:]() 
 
-### Given Function: $\ f(x) = x \cdot e^x \$
+### Given Function: $\color{DeepSkyBlue} {\ f(x) = x \cdot e^x }$
 
 <br>
 
