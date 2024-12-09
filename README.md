@@ -58,20 +58,6 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Substitute $\color{DeepSkyBlue} {( x = 1 )}$ into $\color{DeepSkyBlue} {\ f'(x)}$
 
-
-<br>
-
-`Latex Code ☟`
-
-```latex
-\begin{enumerate}
-    \item Calculate \( f'(x) \).
-    \item Substitute \( x = 1 \) into \( f'(x) \).
-\end{enumerate}
-```
-
-<br>
-
 ### Solution:
 
 ### $\ f'(x)$ = $\frac{d}{dx}(x^2 + 3x + 2) = 2x + 3\$
