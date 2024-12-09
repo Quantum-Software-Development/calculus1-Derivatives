@@ -12,11 +12,11 @@ https://github.com/user-attachments/assets/e77310b2-7d55-48a2-96c2-f729cf434b75
 Welcome to the **Derivatives - Calculus I** repository! This repository is a comprehensive guide designed to assist students, educators, and enthusiasts in mastering the resolution of mathematics exercises related to derivatives in Calculus I.
 
 
-## 1. Introduction to the Repository
+## 1. [Introduction to the Repository]()
 
 This repository aims to provide a structured approach to learning derivatives, starting from the basic concepts to more advanced applications. Whether you're preparing for exams, brushing up on calculus, or exploring the role of calculus in data science, this resource will be invaluable.
 
-## 2. Fundamental Concepts
+## 2. [Fundamental Concepts]()
 
 In this section, we cover the foundational concepts necessary for understanding derivatives, including:
 
@@ -26,7 +26,7 @@ In this section, we cover the foundational concepts necessary for understanding 
 - **Higher-Order Derivatives**: Understanding the second derivative and beyond.
 - **Common Functions**: Differentiating functions like polynomials, exponentials, logarithms, and trigonometric functions.
 
-## 3. Why Derivatives are Important for AI Data Scientists
+## 3. [Why Derivatives are Important for AI Data Scientists]()
 
 Derivatives are not just a mathematical curiosity; they play a crucial role in the field of data science and artificial intelligence (AI). This section discusses:
 
@@ -38,7 +38,7 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 **[Understanding these applications highlights the importance of derivatives in the development and optimization of AI models.]()**
 
 
-## 4. Exercises
+## 4. [Exercises]()
 
 This section provides practice exercises to help you apply the concepts you've learned. Below are the exercise solutions in LaTeX format:
 
