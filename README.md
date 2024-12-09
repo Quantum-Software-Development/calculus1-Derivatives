@@ -49,7 +49,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ## [Exercicise A:]() 
 
-### Given function $\ f(x)$ = $x^2 + 3x + 2 \$, find the derivative of $\ f(x)\$ with respect to $\( x \)$, and evaluate it at $\( x = 1 )\$.
+### Given function $\color{blue} {\ f(x)}$ = $x^2 + 3x + 2 \$, find the derivative of $\ f(x)\$ with respect to $\( x \)$, and evaluate it at $\( x = 1 )\$.
 
 <br>
 
@@ -72,7 +72,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 <br>
 
-Solution:
+### Solution:
 
 <br>
 
@@ -95,7 +95,6 @@ Solution:
 ```
 
 
----
 
 ## [Exercicise B:]() 
 
