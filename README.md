@@ -271,15 +271,12 @@ So, we have:
 
 
 ```latex
-\ g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]
-\
+\ g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]\
 ```
 
 
 ```latex
-\[
-g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)
-\]
+\ g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)\
 ```
 
 
