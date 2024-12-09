@@ -271,6 +271,11 @@ So, we have:
 
 $\ g'(x) = \frac{d}{dx}\sin(x) + \frac{d}{dx}(\cos(x))^3\$
 
+<br>
+
+$\ g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)\$
+
+
 
 ```latex
 \ g'(x) = \frac{d}{dx}\sin(x) + \frac{d}{dx}(\cos(x))^3\
