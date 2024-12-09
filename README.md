@@ -41,14 +41,9 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 
 <br>
 
-## 4. [Exercises]()
+## 4. [Exercises: Find the following derivatives]() ☟
 
 This section provides practice exercises to help you apply the concepts you've learned. Below are the exercise solutions in LaTeX format:
-
-
-### [Exercises: Find the following derivatives]() ☟
-
-
 
 ## [Exercicise A:]() 
 
