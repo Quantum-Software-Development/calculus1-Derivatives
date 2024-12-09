@@ -58,7 +58,6 @@ This section provides practice exercises to help you apply the concepts you've l
 ### Substitute $\color{DeepSkyBlue} {( x = 1 )}$ into $\color{DeepSkyBlue} {\ f'(x)}$
 
 
-
 <br>
 
 `Latex Code ☟`
@@ -74,11 +73,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Solution:
 
-<br>
-
 ### $\ f'(x)$ = $\frac{d}{dx}(x^2 + 3x + 2) = 2x + 3\$
-
-<br>
 
 ### $\ f'(1)$ = $2(1) + 3 = 5\$
 
