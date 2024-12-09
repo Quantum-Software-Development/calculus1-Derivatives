@@ -37,7 +37,7 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 
 <br>  
 
-***[Understanding these applications highlights the importance of derivatives in the development and optimization of AI models.]()***
+### ***[Understanding these applications highlights the importance of derivatives in the development and optimization of AI models.]()***
 
 <br>
 
