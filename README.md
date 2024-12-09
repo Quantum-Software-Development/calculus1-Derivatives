@@ -55,7 +55,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Calculate, $\color{DeepSkyBlue} {\ f'(x)}$
 
-### Substitute $\color{DeepSkyBlue} {( x = 1 )}$ into$\color{DeepSkyBlue} {\ f'(x)}$
+### Substitute $\color{DeepSkyBlue} {( x = 1 )}$ into $\color{DeepSkyBlue} {\ f'(x)}$
 
 
 
