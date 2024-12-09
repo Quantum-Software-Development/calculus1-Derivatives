@@ -51,7 +51,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 
 
-### Given function $\color{blue} {\ f(x)}$ = $\color{DeepSkyBlue}  {x^2 + 3x + 2}$, find the derivative of $\ f(x)\$ with respect to $\( x \)$, and evaluate it at $\( x = 1 )\$.
+### Given function $\color{DeepSkyBlue} {\ f(x)}$ = $\color{DeepSkyBlue}  {x^2 + 3x + 2}$, find the derivative of $\color{DeepSkyBlue} {\ f(x)}$ with respect to $\( x \)$, and evaluate it at $\( x = 1 )\$.
 
 <br>
 
