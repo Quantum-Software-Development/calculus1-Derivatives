@@ -104,22 +104,21 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### For this function, we use the product rule, which states that the derivative of a product of two functions is the first function times the derivative of the second, plus the second function times the derivative of the first.
 
-So, we have:
+### So, we have:
 
 <br>
 
-$\ f'(x) = \frac{d}{dx}(x) \cdot e^x + x \cdot \frac{d}{dx}(e^x)\$
+### $\ f'(x) = \frac{d}{dx}(x) \cdot e^x + x \cdot \frac{d}{dx}(e^x)\$
 
 <br>
 
-$\ f'(x) = 1 \cdot e^x + x \cdot e^x\$
+### $\ f'(x) = 1 \cdot e^x + x \cdot e^x\$
 
 <br>
 
-$\ f'(x) = e^x + x \cdot e^x\$
+### $\ f'(x) = e^x + x \cdot e^x\$
 
 <br>
-
 
 `Latex Code ☟`
 
@@ -134,6 +133,7 @@ $\ f'(x) = e^x + x \cdot e^x\$
 ```latex
 \ f'(x) = e^x + x \cdot e^x\
 ```
+
 
 ## [Exercicise C:]() 
 
