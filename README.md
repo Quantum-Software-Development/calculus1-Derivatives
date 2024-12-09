@@ -269,6 +269,8 @@ So, we have:
 
 <br>
 
+\ g'(x) = \frac{d}{dx}\sin(x) + \frac{d}{dx}(\cos(x))^3\
+
 
 ```latex
 \ g'(x) = \frac{d}{dx}[\sin(x)] + \frac{d}{dx}[(\cos(x))^3]\
