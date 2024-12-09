@@ -53,11 +53,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Find the derivative of $\color{DeepSkyBlue} {\ f(x)}$ with respect to $\color{DeepSkyBlue} {( x )}$, and evaluate it at $\color{DeepSkyBlue} {( x = 1 )}$.
 
-<br>
-
-### Calculate, $\ f'(x) \$
-
-<br>
+### Calculate, $\color{DeepSkyBlue} {\ f'(x)}$
 
 ### Substitute $\( x = 1 \)$ into $\ f'(x) \$
 
