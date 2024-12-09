@@ -128,24 +128,15 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Given Function: $\ f(x) = 3x + 5 \ln(x) \$
 
-<br>
-
 ### Here, we have a linear function and the natural logarithm. The derivative of a linear function is simply the coefficient of the variable $\( x \)$, and the derivative of $\( \ln(x) \)$ is $\( \frac{1}{x} \)$.
 
-Therefore:
+### Therefore:
 
-<br>
+### $\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\$
 
-$\ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\$
+### $\ f'(x) = 3 + 5 \cdot \frac{1}{x}\$
 
-<br>
-
-$\ f'(x) = 3 + 5 \cdot \frac{1}{x}\$
-
-<br>
-
-$\ f'(x) = 3 + \frac{5}{x}$
-
+### $\ f'(x) = 3 + \frac{5}{x}$
 
 <br>
 
@@ -163,6 +154,7 @@ $\ f'(x) = 3 + \frac{5}{x}$
 \ f'(x) = 3 + \frac{5}{x}
 ```
 
+<br>
 
 ## [Exercicise D:]() 
 
