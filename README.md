@@ -89,6 +89,7 @@ This section provides practice exercises to help you apply the concepts you've l
 \ f'(1) = 2(1) + 3 = 5\
 ```
 
+<br>
 
 
 ## [Exercicise B:]() 
