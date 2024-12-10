@@ -151,19 +151,19 @@ This section provides practice exercises to help you apply the concepts you've l
 
 <br>
 
-So, we have:
+### So, we have:
 
 <br>
 
-$\ f'(x) = \frac{d}{dx}(\sin(4x))\$
+### $\ f'(x) = \frac{d}{dx}(\sin(4x))\$
 
 <br>
 
-$\ f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)\$
+### $\ f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)\$
 
 <br>
 
-$\ f'(x) = 4\cos(4x)\$
+### $\ f'(x) = 4\cos(4x)\$
 
 
 <br>
