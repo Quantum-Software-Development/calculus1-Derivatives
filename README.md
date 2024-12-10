@@ -149,19 +149,12 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u)\$ is $\ cos(u)\$ , and the derivative of  $\( 4x \)$ with respect to $\ ( x \)$ is 4.
 
-<br>
 
 ### So, we have:
 
-<br>
-
 ### $\ f'(x) = \frac{d}{dx}(\sin(4x))\$
 
-<br>
-
 ### $\ f'(x) = \cos(4x) \cdot \frac{d}{dx}(4x)\$
-
-<br>
 
 ### $\ f'(x) = 4\cos(4x)\$
 
@@ -169,7 +162,6 @@ This section provides practice exercises to help you apply the concepts you've l
 <br>
 
 `Latex Code ☟`
-
 
 ```latex
 \ f'(x) = \frac{d}{dx}(\sin(4x))\
