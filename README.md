@@ -143,7 +143,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ## [Exercicise D:]() 
 
-### Given Function: $\ f(x) = \sin(4x) \$
+### Given Function:  $\color{blue} {\ f(x) = \sin(4x) }$
 
 ### For this function, we use the chain rule since we have a composite function. The derivative of $\ sin(u)\$ is $\ cos(u)\$ , and the derivative of  $\( 4x \)$ with respect to $\ ( x \)$ is 4.
 
