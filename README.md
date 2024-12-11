@@ -173,6 +173,8 @@ This section provides practice exercises to help you apply the concepts you've l
 \ f'(x) = 4\cos(4x)\
 ```
 
+<br>
+
 ## [Exercicise E:]() 
 
 ### Given Function: $\ f(x) = e^{3x} \$
