@@ -145,7 +145,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Given Function:  $\color{DeepSkyBlue} {\ f(x) = \sin(4x) }$
 
-### For this function, we use the chain rule since we have a composite function. The derivative of $\color{DeepSkyBlue} { sin(u)}$ is $\color{DeepSkyBlue} { cos(u)}$ , and the derivative of  $\color{DeepSkyBlue} {( 4x )}$ with respect to $\ ( x \)$ is 4.
+### For this function, we use the chain rule since we have a composite function. The derivative of $\color{DeepSkyBlue} { sin(u)}$ is $\color{DeepSkyBlue} { cos(u)}$ , and the derivative of  $\color{DeepSkyBlue} {( 4x )}$ with respect to $\color{DeepSkyBlue} { ( x )}$ is 4.
 
 
 ### So, we have:
