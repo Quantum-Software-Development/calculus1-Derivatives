@@ -183,11 +183,11 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Therefore:
 
-$\ f'(x) = \frac{d}{dx}(e^{3x})\$
+### $\ f'(x) = \frac{d}{dx}(e^{3x})\$
 
-$\ f'(x) = e^{3x} \cdot 3\$
+### $\ f'(x) = e^{3x} \cdot 3\$
 
-$\ f'(x) = 3e^{3x}\$
+### $\ f'(x) = 3e^{3x}\$
 
 <br>
 
