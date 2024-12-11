@@ -179,23 +179,13 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Given Function: $\ f(x) = e^{3x} \$
 
-<br>
-
 ### Here, we also apply the chain rule. The derivative of $\  e^u\$ is $\ e^u\$, and the derivative of $\  3x\$ is 3.
 
-<br>
-
-Therefore:
-
-<br>
+### Therefore:
 
 $\ f'(x) = \frac{d}{dx}(e^{3x})\$
 
-<br>
-
 $\ f'(x) = e^{3x} \cdot 3\$
-
-<br>
 
 $\ f'(x) = 3e^{3x}\$
 
