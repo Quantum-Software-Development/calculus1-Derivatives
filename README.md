@@ -209,19 +209,11 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Given Function: $\ g(x)\$ = $\ sin(x)\$ + $\cos(x))^3\$
 
-<br>
-
 ### To solve this derivative, we use the sum rule and the chain rule. The derivative of \( \sin(x) \) is \( \cos(x) \), and for the \( (\cos(x))^3 \) term, we use the chain rule.
-
-<br>
 
 So, we have:
 
-<br>
-
 $\ g'(x) = \frac{d}{dx}\sin(x) + \frac{d}{dx}(\cos(x))^3\$
-
-<br>
 
 $\ g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)\$
 
