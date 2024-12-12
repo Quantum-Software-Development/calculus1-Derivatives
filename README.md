@@ -143,7 +143,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ## [Exercicise D:]() 
 
-### Given Function:  $\color{blue} { f(x) = e^{3x} }$
+### Given Function:  $\color{DeepSkyBlue} { f(x) = e^{3x} }$
 
 ### For this function, we use the chain rule since we have a composite function. The derivative of $\color{DeepSkyBlue} { sin(u)}$ is $\color{DeepSkyBlue} { cos(u)}$ , and the derivative of  $\color{DeepSkyBlue} {( 4x )}$ with respect to $\color{DeepSkyBlue} { ( x )}$ is $\color{DeepSkyBlue} {4}$.
 
