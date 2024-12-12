@@ -39,7 +39,7 @@ Derivatives are not just a mathematical curiosity; they play a crucial role in t
 
 <br>
 
-## 4. [Exercises: Find the following derivatives]() ☟
+## 4. [Exercises: Find the following derivatives]() 👇
 
 This section provides practice exercises to help you apply the concepts you've learned. Below are the exercise solutions in LaTeX format:
 
@@ -61,7 +61,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 <br>
 
-`Latex Code ☟`
+`Latex Code 👇`
 
 ```latex
 \ f'(x) = \frac{d}{dx}(x^2 + 3x + 2) = 2x + 3\
@@ -90,7 +90,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 <br>
 
-`Latex Code ☟`
+`Latex Code 👇`
 
 ```latex
 \ f'(x) = \frac{d}{dx}(x) \cdot e^x + x \cdot \frac{d}{dx}(e^x)\
@@ -123,7 +123,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 <br>
 
-`Latex Code ☟`
+`Latex Code 👇`
 
 ```latex
 \ f'(x) = \frac{d}{dx}(3x) + \frac{d}{dx}(5\ln(x))\
@@ -157,7 +157,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 <br>
 
-`Latex Code ☟`
+`Latex Code 👇`
 
 ```latex
 \ f'(x) = \frac{d}{dx}(\sin(4x))\
@@ -189,7 +189,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 <br>
 
-`Latex Code ☟`
+`Latex Code 👇`
 
 ```latex
 \ f'(x) = \frac{d}{dx}(e^{3x})\
@@ -216,8 +216,7 @@ $\ g'(x) = \frac{d}{dx}\sin(x) + \frac{d}{dx}(\cos(x))^3\$
 $\ g'(x) = \cos(x) - 3(\cos(x))^2 \cdot \sin(x)\$
 
 <br>
-
-`Latex Code ☟`
+`Latex Code 👇`
 
 ```latex
 \ g'(x) = \frac{d}{dx}\sin(x) + \frac{d}{dx}(\cos(x))^3\
