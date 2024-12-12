@@ -177,7 +177,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ## [Exercicise E:]() 
 
-### Given Function: \color{blue} { f(x) = e^{3x} }
+### Given Function: \color{DeepSkyBlue} { f(x) = e^{3x} }
 
 ### Here, we also apply the chain rule. The derivative of $\  e^u\$ is $\ e^u\$, and the derivative of $\  3x\$ is 3.
 
