@@ -30,12 +30,10 @@ In this section, we cover the foundational concepts necessary for understanding 
 
 Derivatives are not just a mathematical curiosity; they play a crucial role in the field of data science and artificial intelligence (AI). This section discusses:
 
-- **Optimization**: How derivatives help in finding minima and maxima, which are key in training machine learning models.
-- **Gradient Descent**: The backbone of many learning algorithms, using derivatives to optimize model parameters.
-- **Regularization**: Preventing overfitting by penalizing excessive complexity, guided by derivative-based techniques.
-- **Neural Networks**: Backpropagation relies heavily on derivatives for updating weights and biases in deep learning models.
-
-<br>  
+- [**Optimization**](): How derivatives help in finding minima and maxima, which are key in training machine learning models.
+- [**Gradient Descent**](): The backbone of many learning algorithms, using derivatives to optimize model parameters.
+- [**Regularization**](): Preventing overfitting by penalizing excessive complexity, guided by derivative-based techniques.
+- [**Neural Networks**](): Backpropagation relies heavily on derivatives for updating weights and biases in deep learning models.
 
 ### ***[Understanding these applications highlights the importance of derivatives in the development and optimization of AI models.]()***
 
