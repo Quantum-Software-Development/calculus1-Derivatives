@@ -143,7 +143,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ## [Exercicise D:]() 
 
-### Given Function:  $\color{DeepSkyBlue} {  \( f(x) = \sin(4x) \)$
+### Given Function:  $\color{blue} {  f(x) = \sin(4x) }$
 
  $\( f(x) = \sin(4x) \)$
 
