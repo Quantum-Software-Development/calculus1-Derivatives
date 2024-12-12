@@ -179,7 +179,7 @@ This section provides practice exercises to help you apply the concepts you've l
 
 ### Given Function: $\color{DeepSkyBlue} { f(x) = e^{3x} }$
 
-### Here, we also apply the chain rule. The derivative of $\color{DeepSkyBlue} {  e^u}$ is $\color{DeepSkyBlue} { e^u}$, and the derivative of $\color{DeepSkyBlue} {  {3x}}$ is $\color{DeepSkyBlue}} {  3}$.
+### Here, we also apply the chain rule. The derivative of $\color{DeepSkyBlue} {  e^u}$ is $\color{DeepSkyBlue} { e^u}$, and the derivative of $\color{blue} {( 3x )}$ is $\color{DeepSkyBlue}} {  3}$.
 
 ### Therefore:
 
